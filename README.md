@@ -23,8 +23,14 @@ A browser-based _Noughts and Crosses_ game coded in JavaScript, HTML, and CSS.
 
 - As a user I want to see the background change to a color that indicates whose turn it is
 - As a user I want to see how long it has been since the last player moved
+- As a user I want to see a hamburger menu with options so that I can edit the game appearance
 
 #### Gold
 
 - As a user I want to be able to upload my own image to use as a token
 - As a user I would like to share a link so that another remote user can play with me.
+
+### Wireframes
+
+Main playing screen:
+![Base app wireframe](./assets/wireframes/tic-cat-toe.png)
