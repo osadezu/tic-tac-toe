@@ -2,35 +2,14 @@
 
 ## Description
 
-A browser-based _Noughts and Crosses_ game coded in JavaScript, HTML, and CSS.
+A browser-based cat-based _Noughts and Crosses_ game coded in JavaScript, HTML, and CSS.
 
-## Planning process
+## To-Do
 
-### User Stories
+- [ ] Add functionality to show players' score.
+- [ ] Winning player to begin next round.
+- [ ] Game over: if all boxes are full without a winner.
 
-#### MVP
+### About
 
-- As a user I want a graphic interface so that I can play the game.
-- As a user I want the game to reach a win state so that I know who won and play again.
-- As a user I want to know whose turn it is
-
-#### Bronze
-
-- As a user I want to have a record of previous games
-- As a user I want a reset button so that I can start the game over
-
-#### Silver
-
-- As a user I want to see the background change to a color that indicates whose turn it is
-- As a user I want to see how long it has been since the last player moved
-- As a user I want to see a hamburger menu with options so that I can edit the game appearance
-
-#### Gold
-
-- As a user I want to be able to upload my own image to use as a token
-- As a user I would like to share a link so that another remote user can play with me.
-
-### Wireframes
-
-Main playing screen:
-![Base app wireframe](./assets/wireframes/tic-cat-toe.png)
+Starter HTML and CSS code provided by [GA](generalassemb.ly)'s [Esin Saribudak](https://github.com/esin87) for SEIR-1115
